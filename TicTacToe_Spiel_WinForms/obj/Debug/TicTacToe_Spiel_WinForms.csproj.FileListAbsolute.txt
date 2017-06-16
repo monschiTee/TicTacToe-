@@ -1,0 +1,6 @@
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\bin\Debug\TicTacToe_Spiel_WinForms.exe.config
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\bin\Debug\TicTacToe_Spiel_WinForms.exe
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\bin\Debug\TicTacToe_Spiel_WinForms.pdb
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\obj\Debug\TicTacToe_Spiel_WinForms.csprojResolveAssemblyReference.cache
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\obj\Debug\TicTacToe_Spiel_WinForms.exe
+C:\C#\TicTacToe_Spiel_WinForms\TicTacToe_Spiel_WinForms\obj\Debug\TicTacToe_Spiel_WinForms.pdb
